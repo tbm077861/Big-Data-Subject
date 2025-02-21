@@ -1,7 +1,7 @@
 # CRAWLER PROJECT
 
 ## Giới thiệu
-Dự án xây dựng hệ thống thu thập dữ liệu từ các trang web như FPTShop và Nhaccuatui, sau đó lưu trữ vào các tệp CSV, TXT và cơ sở dữ liệu MongoDB.
+Dự án xây dựng hệ thống thu thập dữ liệu từ các trang web như Zing MP3 và Zing News, sau đó lưu trữ vào các tệp CSV, TXT và cơ sở dữ liệu MongoDB.
 
 ## Cấu trúc thư mục
 ```
